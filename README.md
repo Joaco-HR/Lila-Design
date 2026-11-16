@@ -1,2 +1,2 @@
 # Lila-Design
-Sitio web del emprendimiento Lila Desing
+Sitio web del emprendimiento Lila Design
